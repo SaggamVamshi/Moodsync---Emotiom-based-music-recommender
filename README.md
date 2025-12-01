@@ -1,4 +1,4 @@
-**🎶 MoodSync – Mood-Based Music Recommender**
+**🎶 MoodSync – Emotion-Based Music Recommender**
 
 A smart music suggestion system based on user-selected mood.
 MoodSync is a simple and intelligent music recommendation system that suggests songs based on the user’s current mood. Instead of detecting emotion through facial recognition, MoodSync lets users select their mood manually, and the system plays music that matches the emotional tone.
